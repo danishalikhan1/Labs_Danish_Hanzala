@@ -1,0 +1,13 @@
+# Vivado ignores
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+*.zip
+.Xil/
+*sim/
+*runs/
+*.cache/
+*.hw/
+*.ip_user_files/
